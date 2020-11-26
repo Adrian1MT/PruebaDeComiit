@@ -16,7 +16,7 @@ public class testPrueba {
 	@Test
 	public void testPrueba2() {
 		Prueba1 p = new Prueba1();
-		String resultado = p.aleatorio(1);
+		String resultado = p.aleatorio(12);
 		String resultadoEsperado = "menor";
 		assertEquals(resultado, resultadoEsperado);
 	}
