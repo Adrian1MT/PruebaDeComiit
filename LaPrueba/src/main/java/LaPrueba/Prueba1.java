@@ -15,5 +15,6 @@ public class Prueba1 {
 			texto="mayor";
 		}
 		return texto;
+		
 	}
 }
